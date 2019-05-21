@@ -1,4 +1,5 @@
 # Keep up
+[![Build Status](https://travis-ci.org/dokwork/sbt-keepup.svg?branch=master)](https://travis-ci.org/dokwork/sbt-keepup)
 [ ![Download](https://api.bintray.com/packages/dokwork/sbt-plugins/sbt-keepup/images/download.svg) ](https://bintray.com/dokwork/sbt-plugins/sbt-keepup/_latestVersion)
 
 This library is extension for the [sbt-release plugin](https://github.com/sbt/sbt-release) which adds new release steps to keep up version of your libraries 
