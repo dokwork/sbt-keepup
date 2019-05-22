@@ -8,7 +8,7 @@ in the README file.
 ## Installation
 Add to the `project/plugins.sbt`:
 ```scala
-addSbtPlugin("ru.dokwork" %% "sbt-keepup" % "0.1.0")
+addSbtPlugin("ru.dokwork" % "sbt-keepup" % "0.1.0")
 ``` 
 
 ## How to use:
